@@ -12,7 +12,7 @@ twitter_username:   deresnowk # Your Twitter username here
 github_username:    snowde # Your GitHub username here
 
 # Site Settings
-url:                https://snowde.github.io # main url can chnge nce other one activates
+url:                https://heiswayi.nrird.com # main url can chnge nce other one activates
 baseurl:            /the-plain # for gh-pages
 permalink:          /notes/:title # Post permalink
 timezone:           Pacific/Auckland # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
