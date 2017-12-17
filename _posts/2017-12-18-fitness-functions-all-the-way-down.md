@@ -7,7 +7,7 @@ updated: 2017-12-18 10:37
 
 ## Netflix Fitness Function Externality 
 
-**Netflix** generates revenue by accumulating as many users _as possible_. I can come up with a latticework of 20 <span title="This is a tooltip example">fitness functions</span>. One example thread is. 
+**Netflix** generates revenue by accumulating as many users _as possible_[^1]. I can come up with a latticework of 20 fitness functions[^2]. One example thread is. 
 
 `f(Profit)= MonthlyRetention + MonthlyAddition`, 
 `f(MonthlyRetention)= NewContent + Design`, 
@@ -22,34 +22,9 @@ Netflix is incentivised to generate content every month to attract users. Initia
 
 Apart from server constraints, the longer Netflix can keep a user engaged, the less likely they are to renew their cable or other subscription. This similalry has design implications such as 1. Algorithmic filtering  2. Next Watch Options 3. Autoplay Function
 
-[here we go](http://www.example.com) 
-
-<div class="divider"></div>
-
-## Footnote
-
-Let's say you have text that you want to refer with a footnote, you can do that too! This is an example for the footnote number one [^1]. You can even add more footnotes, with link! [^2]
+[here we go](https://aasm.org/sleep-or-netflix-you-can-have-both-when-you-binge-watch-responsibly/) 
 
 <div class="divider"></div>
 
 [^1]: Netflix User Stats - [Stats](https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/)
-[^1]: Netflix User Stats - [Stats](https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/)
-[^1]: Netflix User Stats - [Stats](https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/)
-[^1]: Netflix User Stats - [Stats](https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/)
-[^1]: Netflix User Stats - [Stats](https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/)
-[^1]: Netflix User Stats - [Stats](https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/)
-[^1]: Netflix User Stats - [Stats](https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/)
-[^1]: Netflix User Stats - [Stats](https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/)
-[^1]: Netflix User Stats - [Stats](https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/)
-[^1]: Netflix User Stats - [Stats](https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/)
-[^1]: Netflix User Stats - [Stats](https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/)
-[^1]: Netflix User Stats - [Stats](https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/)
-[^1]: Netflix User Stats - [Stats](https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/)
-[^1]: Netflix User Stats - [Stats](https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/)
-[^1]: Netflix User Stats - [Stats](https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/)
-[^1]: Netflix User Stats - [Stats](https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/)
-[^1]: Netflix User Stats - [Stats](https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/)
-[^1]: Netflix User Stats - [Stats](https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/)
-[^1]: Netflix User Stats - [Stats](https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/)
-[^1]: Netflix User Stats - [Stats](https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/)
-
+[^2]: A fitness function is a particular type of objective function that is used to summarise, as a single figure of merit, how close a given design solution is to achieving the set aims - Wikipedia. 
