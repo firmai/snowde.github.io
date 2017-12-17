@@ -5,7 +5,7 @@ updated: 2017-12-18 10:37
 
 **FF:** Google: Maximise Clicks, Facebook: Time on Site, Youtube: Time on Site, Uber: Distance Travelled, Netflix: Monthly Retention
 
-## Expanding Netflix
+## Netflix Fitness Function Externality 
 
 **Netflix** generates revenue by accumulating as many users _as possible_. I can come up with a latticework of 20 fitness functions. One example thread is. 
 
@@ -14,7 +14,7 @@ updated: 2017-12-18 10:37
 `f(Design)= AlgorithmicFiltering + AutoPlay + NextWatch`
 `f(AlgorithmicFiltering)= ...`
 
-Apart from the above thread, you can imagine a tree starting with profit and a bunch of branches working there way down. The tree can be thought of as an incentive tree. Each little branch brings back oxygen/profit to the core stem. Each of these brances produces fitness externatilities. Sometimes these externalities transpire from happenstance. 
+Apart from the above thread, you can imagine a tree starting with profit and a bunch of branches working there way down. The tree can be thought of as an incentive tree. Each little branch brings back CO2/profit to the core stem. Although each of these brances transports the profit, some branches, due to deformations, require more oxegyn/costs. The tree can decide to remain small and sever the branch or follow its natural path and wrap over others to obtain the necessary CO2. This is referred to as fitness externatilities. These externalities mostly transpire from happenstance. 
 
 **Design Externality_**  
 ```
