@@ -14,14 +14,14 @@ updated: 2017-12-18 10:37
 `f(Design)= AlgorithmicFiltering + AutoPlay + NextWatch`
 `f(AlgorithmicFiltering)= ...`
 
-Apart from the above thread, you can imagine a tree starting with profit and a bunch of branches working there way down. The tree can be thought of as an incentive tree. Each little branch brings back CO2/profit to the core stem. Although each of these brances transports the profit, some branches, due to deformations, require more oxegyn/costs. The tree can decide to remain small and sever the branch or follow its natural path and wrap over others to obtain the necessary CO2. This is referred to as fitness externatilities. These externalities mostly transpire from happenstance. 
+Apart from the single thread above, imagine a tree starting with profit and a bunch of branches/threads working there way down. The tree can be thought of as an incentive tree. Each branch brings back CO2/profit to the core stem. Some branches, due to deformations, require more oxegyn/costs. It is unnatural for these branches to be severed if they can instead wrap over others to obtain the necessary CO2 to 'grow as large'/'make as much profit' as they can. That wrapping around can be referred to as fitness externatilities. These externalities mostly transpire from happenstance. 
 
 **_Design Externality_**  
-Netflix is incentivised to generate content every month to attract users. Initially Netflix's demographic were young smart first adopters. There is content conflict between retaining this population and adding late adopters. Due to the size of the late adopters netflix has to produce more general content. Due to the broader demographic netflix has to add more content for each sub-population to retain them. The issue is that the content can get lost without intelligent filterning and suggestions. 
+Netflix is incentivised to generate content every month to attract users. Initially Netflix's demographic were young smart first adopters. There is content conflict between retaining this population and adding late adopters. Due to the size of the late adopters netflix has to produce more general content. Due to the broader demographic netflix has to add more content for each sub-population to retain them. The issue is that the content can get lost without 1. intelligent filtering and 2. suggestions. 
 
-Apart from server constraints, the longer Netflix can keep a user engaged, the less likely they are to renew their cable subscription. This similalry has design implications such as 1. Algorithmic filtering 2. Autoplay Function 3. Next Watch. 
+Apart from server constraints, the longer Netflix can keep a user engaged, the less likely they are to renew their cable or other subscription. This similalry has design implications such as 1. Algorithmic filtering  2. Next Watch Options 3. Autoplay Function
 
-them together. Yeah, that's right! I have code to highlight, so . What a nice! Good people will hyperlink away, so [here we go](#) or [http://www.example.com](http://www.example.com).
+[here we go](http://www.example.com) 
 
 <div class="divider"></div>
 
