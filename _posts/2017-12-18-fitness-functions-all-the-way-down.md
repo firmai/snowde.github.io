@@ -3,11 +3,11 @@ title: Fitness Functions All The Way Down
 updated: 2017-12-18 10:37
 ---
 
-**FF [^1]:** Google: Maximise Clicks, Facebook: Time on Site, Youtube: Time on Site, Uber: Distance Travelled, Netflix: Monthly Retention
+**FF[^1]:** Google: Maximise Clicks, Facebook: Time on Site, Youtube: Time on Site, Uber: Distance Travelled, Netflix: Monthly Retention
 
 ## Netflix Fitness Function Externality 
 
-**Netflix** generates revenue by accumulating as many users _as possible_ [^2]. I can come up with a latticework of 20 fitness functions . One example thread is. 
+**Netflix** generates revenue by accumulating as many users _as possible_[^2]. I can come up with a latticework of 20 fitness functions. One example thread is. 
 
 `f(Profit)= MonthlyRetention + MonthlyAddition`, 
 `f(MonthlyRetention)= NewContent + Design`, 
@@ -18,9 +18,9 @@ Apart from the single thread above, imagine a tree starting with profit and a bu
 
 **_Design Externality_**  
 
-Netflix is incentivised to generate content every month to attract users. Initially Netflix's demographic were young smart first adopters. There is content conflict between retaining this population and adding late adopters. Due to the size of the late adopters netflix has to produce more general content. Due to the broader demographic netflix has to add more content for each sub-population to retain them. The issue is that the content can get lost without 1. intelligent filtering and 2. suggestions. 
+Netflix is incentivised to generate content every month to attract users. Initially Netflix's demographic were young smart first adopters. There is content conflict between retaining this population and adding late adopters. Due to the size of the late adopters netflix has to produce more general content. Due to the broader demographic netflix has to add more content for each sub-population to retain them. The issue is that the content can get lost without (1) intelligent filtering and (2) automatic suggestions. 
 
-Apart from server constraints, the longer Netflix can keep a user engaged, the less likely they are to renew their cable or other subscription. This similalry has design implications such as 1. Algorithmic filtering  2. Next Watch Options 3. Autoplay Function
+Apart from server constraints, the longer Netflix can keep a user engaged, the less likely they are to renew their cable or other subscription. This similalry has design implications such as (1) Algorithmic filtering  (2) Next Watch Options (3) Autoplay Function.
 
 [here we go](https://aasm.org/sleep-or-netflix-you-can-have-both-when-you-binge-watch-responsibly/) 
 
