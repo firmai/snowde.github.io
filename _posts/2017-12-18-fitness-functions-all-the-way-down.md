@@ -3,11 +3,11 @@ title: Fitness Functions All The Way Down
 updated: 2017-12-18 10:37
 ---
 
-**FF:** Google: Maximise Clicks, Facebook: Time on Site, Youtube: Time on Site, Uber: Distance Travelled, Netflix: Monthly Retention
+**FF [^1]:** Google: Maximise Clicks, Facebook: Time on Site, Youtube: Time on Site, Uber: Distance Travelled, Netflix: Monthly Retention
 
 ## Netflix Fitness Function Externality 
 
-**Netflix** generates revenue by accumulating as many users _as possible_[^1]. I can come up with a latticework of 20 fitness functions[^2]. One example thread is. 
+**Netflix** generates revenue by accumulating as many users _as possible_ [^2]. I can come up with a latticework of 20 fitness functions . One example thread is. 
 
 `f(Profit)= MonthlyRetention + MonthlyAddition`, 
 `f(MonthlyRetention)= NewContent + Design`, 
@@ -26,5 +26,6 @@ Apart from server constraints, the longer Netflix can keep a user engaged, the l
 
 <div class="divider"></div>
 
-[^1]: Netflix User Stats - [Stats](https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/)
-[^2]: A fitness function is a particular type of objective function that is used to summarise, as a single figure of merit, how close a given design solution is to achieving the set aims - Wikipedia. 
+[^1]: A fitness function is a particular type of objective function that is used to summarise, as a single figure of merit, how close a given design solution is to achieving the set aims - Wikipedia. 
+[^2]: Netflix User Stats - [Stats](https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/)
+
