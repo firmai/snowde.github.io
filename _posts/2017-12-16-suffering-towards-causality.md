@@ -3,18 +3,18 @@ title: Suffering Towards Causality
 updated: 2017-12-18 10:37
 ---
 
-**C[^1]:** 
-
-**Linear Causality**: This effects that, no believable emperical examples of this.
-**Domino Causality**: Sequential unfolding, atmospheric pressure -> wind -> turbines turn -> electricity 
+**C[^1]:** **Linear Causality**: This effects that, no believable emperical examples of this.
+**Domino Causality**: Sequential unfolding, atmospheric pressure → wind → turbines turn → electricity 
 **Cyclic Causality**: This effects that effects this, no believable emperical examples of this. 
-**Spiraling Causality**: Involves a feedback loop towards first cause, atmospheric pressure -> wind -> atmospheric pressure -> wind -> turbines turn
-**Relational Causality**: Two things work in relation to each other to cause an outcome, high pressure + low pressure -> wind -> turbines turn
-**Mutual Causality**: Two things impact each other atmospheric pressure <-> wind
+**Spiraling Causality**: Involves a feedback loop towards first cause, atmospheric pressure → wind → atmospheric pressure → wind → turbines turn
+**Relational Causality**: Two things work in relation to each other to cause an outcome, high pressure + low pressure → wind → turbines turn
+**Mutual Causality**: Two things impact each other atmospheric pressure ⇄ wind
 
  <a href="https://github.com/snowde/snowde.github.io/blob/master/assets/AirPressureModule.pdf" target="_blank">See this.</a>
  
-tl;dr: Pure causality is impossible to track. Causality is complex and is a combination of various interactions. To scientifically proclaim causality you have to localise and abstract distant casualities away by making assumptions and telling a story. 
+tl;dr: Pure causality is impossible to track. Causality is complex and is a combination of various interactions. 
+
+To scientifically proclaim causality you have to localise and abstract distant casualities away by making assumptions and telling a story. 
 
 The threshold for causality varies significantly accross disciplines.
 
@@ -26,9 +26,11 @@ Causal systems should give attention to Hickam's Dictum - many things, A-Y, simu
 
 Good rule: don’t default to Ockams Razor - the simpler the causality the more likely you are wrong. However, a simpler hypothesis makes for a more interpretable story.  
 
-You Think, Example, Should Think, Example
-Unidirectional, Bees-> Flowers -> Nectar -> Food, Bi-directional, Bees -> flowers -> Nectar -> Cross-pollinate -> flowers -> nectar -> bees. 
-'Obviously' Perceptible, Heavy Object -> Sinks, Non-obvious, Dense Object -> Sinks
+*How We Think, Example, How We Should Think, Example*
+<br />
+Unidirectional, Bees → Flowers → Nectar → Food, Bi-directional, Bees → flowers → Nectar → Cross-pollinate → flowers → nectar → bees.
+<br />
+'Obviously' Perceptible, Heavy Object → Sinks, Non-obvious, Dense Object → Sinks
 
 
 ### The path of causality can never be complete.   
