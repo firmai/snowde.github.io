@@ -16,7 +16,7 @@ __Language__: <a href="https://en.wikipedia.org/wiki/Daniel_Tammet" target="_bla
 <a href="https://www.urbandictionary.com/define.php?term=TCDR" target="_blank">tc;dr</a> Too many people claim to have some 'disorder' 
 
 
-## A Six-Sigma Life   
+## A Four-Sigma Life   
 
 **Idiot Savants** have a core skill they excel at while having below average intellect as measured by IQ. 
 
