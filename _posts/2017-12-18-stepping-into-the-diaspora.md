@@ -13,7 +13,7 @@ The **muliplier** indicates how much more wealth a cummunity has as measured aga
 
 *Moreover the distinction between the beforementioned three concepts are also unclear. Ex. Shakira's dad is Lebaneses, he was borne in NY, Shakira was born in Columbia and Raised Cateholic. Is Shakira Lebanese?* 
 
-However there is a smattering of studies here and there. What is clear is that there is some diasporas that do extremely well. 
+There is a smattering of studies here and there. These studies lack emperical justication for the postulated theories.  What is made  clear is that there is some diasporas that do extremely well, the justification is left moot. The following theories seem defensible. 
 
 1. Education:
   The majority of these nationalities emphasise education.
@@ -22,7 +22,7 @@ However there is a smattering of studies here and there. What is clear is that t
   Diaspora communities tend to question authorities and the current way of doing things. - Historical pawns of Globalisation/Wars. 
   
 3. Opression:
-  Opression is another golden thread in diaspora communities. However opression without education and worldly knowledge does not seem usefull as evidenced later on. 
+  Opression is another golden thread in diaspora communities. However opression without education and worldly knowledge does not seem usefull as evidenced later. 
   
 3. Spiderweb:
   The wealth that enters the diaspora tends to stay inside the community as a result of bartering, favours and networks. Apart from wealth, the communities also share less tangible assets such as knowledge.  
