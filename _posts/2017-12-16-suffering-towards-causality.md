@@ -1,52 +1,59 @@
 ---
-title: An Idiot Savant
+title: Suffering Towards Causality 
 updated: 2017-12-18 10:37
 ---
 
-**IS[^1]:** 
-__Mnemonmist__: <a href="https://en.wikipedia.org/wiki/Kim_Peek" target="_blank">Kim Peek</a>, 
-__Musician__: <a href="https://en.wikipedia.org/wiki/Leslie_Lemke" target="_blank">Leslie Lemke</a>, 
-__Sculptor__: <a href="https://en.wikipedia.org/wiki/Alonzo_Clemons" target="_blank">Alonzo Clemons</a>, 
-__Painter__: <a href="https://en.wikipedia.org/wiki/Gottfried_Mind" target="_blank">Gottfried Mind</a>, 
-__Eidetic__: <a href="https://en.wikipedia.org/wiki/Stephen_Wiltshire" target="_blank">Stephen Wiltshire</a>,
-__Maths__: <a href="https://en.wikipedia.org/wiki/Jedediah_Buxton" target="_blank">Jedediah Buxton</a>, 
-__Language__: <a href="https://en.wikipedia.org/wiki/Daniel_Tammet" target="_blank">Daniel Tammet</a>
+**C[^1]:** 
+
+**Linear Causality**: This effects that, no believable emperical examples of this.
+**Domino Causality**: Sequential unfolding, atmospheric pressure -> wind -> turbines turn -> electricity 
+**Cyclic Causality**: This effects that effects this, no believable emperical examples of this. 
+**Spiraling Causality**: Involves a feedback loop towards first cause, atmospheric pressure -> wind -> atmospheric pressure -> wind -> turbines turn
+**Relational Causality**: Two things work in relation to each other to cause an outcome, high pressure + low pressure -> wind -> turbines turn
+**Mutual Causality**: Two things impact each other atmospheric pressure <-> wind
+
+ <a href="https://github.com/snowde/snowde.github.io/blob/master/assets/AirPressureModule.pdf" target="_blank">See this.</a>
+ 
+tl;dr: Pure causality is impossible to track. Causality is complex and is a combination of various interactions. To scientifically proclaim causality you have to localise and abstract distant casualities away by making assumptions and telling a story. 
+
+The threshold for causality varies significantly accross disciplines.
+
+## Defining Causality in Complex systems
+
+Causality in complex systems is a combination of domino, cyclic, spiraling, relational and mutual causalities. 
+
+Causal systems should give attention to Hickam's Dictum - many things, A-Y, simultaneously expalain Z. 
+
+Good rule: don’t default to Ockams Razor - the simpler the causality the more likely you are wrong. However, a simpler hypothesis makes for a more interpretable story.  
+
+You Think, Example, Should Think, Example
+Unidirectional, Bees-> Flowers -> Nectar -> Food, Bi-directional, Bees -> flowers -> Nectar -> Cross-pollinate -> flowers -> nectar -> bees. 
+'Obviously' Perceptible, Heavy Object -> Sinks, Non-obvious, Dense Object -> Sinks
 
 
-tl;dr: Too many people claim to have some 'disorder' 
+### The path of causality can never be complete.   
+
+Linear and Cyclic Causality can only ever be theoretical, in a deterministic temporal world there is always a button that has to push Linear and Cyclic systems into being.
+
+The path can never be spatially or temporally complete. There would always be something more distant and something further back leading to your reading of this piece. 
+
+Butterfly-effect example: " The Holocaust and communism were caused by just about everything that happened in ancient Mesopotamian, including the Epic of Gilgamesh."
+
+Understanding causal patterns become increasingly important in systems-thinking.
 
 
-## A Four-Sigma Life   
 
-**Idiot Savants** have a core skill they excel at while having below average intellect as measured by IQ. 
+### Scientific/Explanatory Causality 
 
-Savant syndrome is condition in which persons with serious mental disabilities, including autistic disorder, have some 'island of genius'[^1] 
+The world is built from systems. People understand stories.
+--Alan Kay
 
-I recall a period in my youth where people would claim to be dyslexic, ambidextrous and autistic to obtain the 'preceived' societal benfits of such disorders.
+Actual causality is too broad. Scientists have to find close causality, which is decided by the consensus in the field. Each discipline has their own little tricks to hone in on a closed system to test causality. 
 
-Looking at this correlation <a href="https://trends.google.com/trends/explore?date=all&q=Am%20I%20Autistic,Autism%20Benefits" target="_blank">trend</a>, it is likely that more people are claiming pseudo-syndrome status for perceived personal
-<a href="https://www.theatlantic.com/health/archive/2015/09/autism-hidden-advantages/406180/" target="_blank">benefits</a>. 
+Every experiment requires certain assumptions to make strong inference.  
 
-It is a shock to witness a savant. But generally speaking savants are not the best in a domain.
-
-Savants are often seen as extraordinary due to the strong contrast of their skill against their disability. Analogy: A cat can play piano, but the cat is still not the best pianist.
-
-People seem to mistake Savants for Genuises. Academically defined genuises (1/4)% are slightly more prevelant than savants (1/10)%. *Savants make the news and genuises everything else.*
-
-Determining if someone is Autistic is extremely hard. **Importantly** having autism does not exclude you from being a genius, i.e. Mozart, Warhol, Dan Harmon.
-
-`Autism ≠ Savant`
-
-**_Startups and Things_**  
-
-This tendency is kreeping into silicon valley. Peter Thiel says that 'many of the more successful entrepreneurs seem to be suffering from a mild form of Asperger’s where it’s like you’re missing the imitation, socialisation gene.'
-
-I hope for a randomised study and a standardised test in this area to test whether difficulties in social communication and interaction and a proclivity leads to more career success. And whether it can be explained sans Autism.
-
-Since the 1990s think tanks have been trying to push the envelope with concepts such as neurodiversity, which sees autism and
-dyslexia as different modes of intelligence instead of pathologies that need to be cured.
 
 <div class="divider"></div>
 
-[^1]: Savant Syndrome - [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2677584/)
+[^1]: Causality (also referred to as causation, or cause and effect) is the natural or worldly agency or efficacy that connects one process (the cause) with another process or state (the effect), where the first is partly responsible for the second, and the second is partly dependent on the first.
 
