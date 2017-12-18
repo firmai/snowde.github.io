@@ -7,11 +7,11 @@ updated: 2017-12-18 10:37
 
 ## Netflix Fitness Function Externality 
 
-**Netflix** generates revenue by accumulating as many users _as possible_[^2]. I can come up with a latticework of 20 fitness functions. One example thread is. 
+**Netflix** generates revenue by accumulating as many users _as possible_.[^2] I can come up with a latticework of 20 fitness functions. One example thread is. 
 
 `f(Profit)= MonthlyRetention + MonthlyAddition`, 
 `f(MonthlyRetention)= NewContent + Design`, 
-`f(Design)= AlgorithmicFiltering + AutoPlay + NextWatch`
+`f(Design)= AlgorithmicFiltering + AutoPlay + NextWatch`,
 `f(AlgorithmicFiltering)= ...`
 
 [tc;dr](https://www.urbandictionary.com/define.php?term=TCDR) One profit thread is keep the customers glued! 
