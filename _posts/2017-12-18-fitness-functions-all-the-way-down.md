@@ -14,7 +14,7 @@ updated: 2017-12-18 10:37
 `f(Design)= AlgorithmicFiltering + AutoPlay + NextWatch`,
 `f(AlgorithmicFiltering)= ...`
 
-[tc;dr](https://www.urbandictionary.com/define.php?term=TCDR) One profit thread is keep the customers glued! 
+[tc;dr](https://www.urbandictionary.com/define.php?term=TCDR target="_blank") One profit thread is to keep the customers glued! 
 
 Apart from the single thread above, imagine a tree starting with profit and a bunch of branches/threads working there way down. The tree can be thought of as an incentive tree. 
 
