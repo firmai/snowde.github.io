@@ -3,11 +3,15 @@ title: Stepping Into The Diaspora
 updated: 2017-12-17 12:37
 ---
 
-**Historical Diasporas[^1]:** American Jews: 40%-60% US Wealth/1.5% population = **33**, South African Indians: 15%-20% SA Wealth/3% population = **6**, South African Jews: 25%-30% SA Wealth/0.15% = **180**, Lebanese Brazillians: 10%-15% Brazillian Wealth/2.5% population = **5**. [^2]. The **muliplier** indicates how much more wealth than expected based on the population composition. 
+**Historical Diasporas[^1]:** American Jews: 40%-60% US Wealth/1.5% population = **33**, South African Indians: 15%-20% SA Wealth/3% population = **6**, South African Jews: 25%-30% SA Wealth/0.15% = **180**, Lebanese Brazillians: 10%-15% Brazillian Wealth/2.5% population = **5**.[^2]. 
+
+The **muliplier** indicates how much more wealth than expected based on the population composition. 
 
 ## Diaspora Success   
 
-**Diasporas** are tricky, they have not been studied well enough. Likely as a result of the difficulty in getting country level wealth and population at the level of nationalities. However there is a smattering of studies here and there. What is clear is that there is some diasporas that do extremely well. 
+**Diasporas** are tricky, they have not been studied well enough. Likely as a result of the difficulty in getting country level wealth and population at the level of nationalities. 
+
+However there is a smattering of studies here and there. What is clear is that there is some diasporas that do extremely well. 
 
 1. Education:
   The majority of these nationalities emphasise education.
@@ -21,7 +25,9 @@ updated: 2017-12-17 12:37
 3. Spiderweb:
   The wealth that enters the diaspora tends to stay inside the community as a result of bartering, favours. Aparat from weatlth, the communities also share knowledge and networks.  
 
-As with all social science theories, multiple other factors could be at play. It is interesting to note that a lot of these points also relate with the economic immigrant communities of modern day such as the indians and chinese americans, who are also performing well. There also seems to be a difference in the level of success between economic immigrants and political refugees. 
+As with all social science theories, multiple other factors could be at play. It is interesting to note that a lot of these points also relate with the economic immigrant communities of modern day such as the indians and chinese americans, who are also performing well.
+
+There also seems to be a difference in the level of success between economic immigrants and political refugees. 
 
 
 <div class="divider"></div>
