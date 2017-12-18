@@ -13,7 +13,7 @@ __Maths__: <a href="https://en.wikipedia.org/wiki/Jedediah_Buxton" target="_blan
 __Language__: <a href="https://en.wikipedia.org/wiki/Daniel_Tammet" target="_blank">Daniel Tammet</a>
 
 
-<a href="https://www.urbandictionary.com/define.php?term=TCDR" target="_blank">tc;dr</a> Too many people claim to have some 'disorder' 
+tl;dr: Too many people claim to have some 'disorder' 
 
 
 ## A Four-Sigma Life   
@@ -24,7 +24,7 @@ Savant syndrome is condition in which persons with serious mental disabilities, 
 
 I recall a period in my youth where people would claim to be dyslexic, ambidextrous and autistic to obtain the 'preceived' societal benfits of such disorders.
 
-Looking at this correlation <a href="https://trends.google.com/trends/explore?date=all&q=Am%20I%20Dyslexic,Dyslexia%20Benefits" target="_blank">trend</a>, it is likely that more people are claiming pseudo-syndrome status for perceived personal benefits. 
+Looking at this correlation <a href="https://trends.google.com/trends/explore?date=all&q=Am%20I%20Autistic,Autism%20Benefits" target="_blank">trend</a>, it is likely that more people are claiming pseudo-syndrome status for perceived personal benefits. 
 
 It is a shock to witness a savant. But generally speaking savants are not the best in a domain.
 
