@@ -1,30 +1,31 @@
 ---
 title: Stepping Into The Diaspora 
-updated: 2017-12-18 12:37
+updated: 2017-12-17 12:37
 ---
 
-**FF:** Google: Maximise Clicks, Facebook: Time on Site, Youtube: Time on Site, Uber: Distance Travelled, Netflix: Monthly Retention
+**Historical Diasporas[^1]:** American Jews: 40%-60% US Wealth/1.5% population = **33**, South African Indians: 15%-20% SA Wealth/3% population = **6**, South African Jews: 25%-30% SA Wealth/0.15% = **180**, Lebanese Brazillians: 10%-15% Brazillian Wealth/2.5% population = **5**. [^2]. The **muliplier** indicates how much more wealth than expected based on the population composition. 
 
-## Netflix Fitness Function Externality 
+## Diaspora Success   
 
-**Netflix** generates revenue by accumulating as many users _as possible_[^1]. I can come up with a latticework of 20 fitness functions[^2]. One example thread is. 
+**Diasporas** are tricky, they have not been studied well enough. Likely as a result of the difficulty in getting country level wealth and population at the level of nationalities. However there is a smattering of studies here and there. What is clear is that there is some diasporas that do extremely well. 
 
-`f(Profit)= MonthlyRetention + MonthlyAddition`, 
-`f(MonthlyRetention)= NewContent + Design`, 
-`f(Design)= AlgorithmicFiltering + AutoPlay + NextWatch`
-`f(AlgorithmicFiltering)= ...`
+1. Education:
+  The majority of these nationalities emphasise education.
+  
+2. Status Quo:
+  Diaspora communities tend to question authorities and the current way of doing things. - Historical pawns of Globalisation/Wars. 
+  
+3. Opression:
+  Opression is another golden thread in diaspora communities, opression without education and worldly knowledge is not usefull.
+  
+3. Spiderweb:
+  The wealth that enters the diaspora tends to stay inside the community as a result of bartering, favours. Aparat from weatlth, the communities also share knowledge and networks.  
 
-Apart from the single thread above, imagine a tree starting with profit and a bunch of branches/threads working there way down. The tree can be thought of as an incentive tree. Each branch brings back CO2/profit to the core stem. Some branches, due to deformations, require more oxegyn/costs. It is unnatural for these branches to be severed if they can instead wrap over others to obtain the necessary CO2 to 'grow as large'/'make as much profit' as they can. That wrapping around can be referred to as fitness externatilities. These externalities mostly transpire from happenstance. 
+As with all social science theories, multiple other factors could be at play. It is interesting to note that a lot of these points also relate with the economic immigrant communities of modern day such as the indians and chinese americans, who are also performing well. There also seems to be a difference in the level of success between economic immigrants and political refugees. 
 
-**_Design Externality_**  
-
-Netflix is incentivised to generate content every month to attract users. Initially Netflix's demographic were young smart first adopters. There is content conflict between retaining this population and adding late adopters. Due to the size of the late adopters netflix has to produce more general content. Due to the broader demographic netflix has to add more content for each sub-population to retain them. The issue is that the content can get lost without 1. intelligent filtering and 2. suggestions. 
-
-Apart from server constraints, the longer Netflix can keep a user engaged, the less likely they are to renew their cable or other subscription. This similalry has design implications such as 1. Algorithmic filtering  2. Next Watch Options 3. Autoplay Function
-
-[here we go](https://aasm.org/sleep-or-netflix-you-can-have-both-when-you-binge-watch-responsibly/) 
 
 <div class="divider"></div>
 
-[^1]: Netflix User Stats - [Stats](https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/)
-[^2]: A fitness function is a particular type of objective function that is used to summarise, as a single figure of merit, how close a given design solution is to achieving the set aims - Wikipedia. 
+[^1]: A diaspora (from Greek διασπορά, "scattering, dispersion") is a scattered population whose origin lies within a smaller geographic locale. Diaspora can also refer to the movement of the population from its original homeland - Wikipedia. 
+[^2]: All this info was obtained from various websites, the average was taken where multiple figures were reported. 
+
