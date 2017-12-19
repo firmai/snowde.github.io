@@ -17,6 +17,8 @@ tl;dr: Causation and correltion are liquid terms. It is mostly futile to disting
 
 Prediction model might pick up correlated variables as inputs to a model. In fact, predictions almost always pick up correlated variables instead of causal variables.
 
+In the comming epoch of AI causation will take a backseat, and a new fluid definition will appear. 
+
 Researchers are obsessed with causality. Given that causality can be instantly distant both spatially and temporally (butterfly effect), I would argue that to expedite scientific research we should focus on correlation.
 
 The upstream benefits of multiple correlations studies would allow a review study to speculate 'causation' from a correlation mapping. Given that explanatory causation is always abstracted and localised, a new form of 'causation' can be envisaged where the strongest correlation is deemed the causation until proven otherwise.
@@ -24,7 +26,7 @@ The upstream benefits of multiple correlations studies would allow a review stud
 The stronger the correlation, the more likely we are to hone into the causation.
 
 Imagine this progression to what causes lung cancer following the highest observable association/correlation:  
-
+```
 People whose breath stinks are likely to get lung cancer. Effect Size 1. - 1990
 People whose salivary pH was lower than average had an increased risk for lung cancer. Effect Size 1.5 - 1992
 People whose breath stinks and cough are likely to get lung cancer. Effect Size 1.8. - 1999
@@ -46,6 +48,7 @@ People who inhale Formaldehyde Volatile Organic Compound PM2.5 are likely to get
 Hmm, very specific compounds in smoke causes cancer?
 People who inhale Formaldehyde Volatile Organic Compound PM2.5 and don't have the tumour suppressor gene, LIMD1 are likely to get lung cancer. Effect Size 24 - 2008
 Hmm, relational causality at play. 
+```
 
 At each step, a person can infer causation although you can almost always go causally deeper and wider. Yes, smoking cigarettes cause cancer, wow in fact inhaling any smoke causes cancer, wow actually the inhalation of PM2.5 causes cancer, wow a specific type of PM2.5 causes cancer, wow some people seem to have a genetic proclivity in getting lung cancer while inhaling a specific type of PM2.5. Hmm there seems to also be a relational causal relationship. 
 
