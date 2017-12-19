@@ -26,29 +26,29 @@ The upstream benefits of multiple correlations studies would allow a review stud
 The stronger the correlation, the more likely we are to hone into the causation.
 
 Imagine this progression to what causes lung cancer following the highest observable association/correlation:  
-```
-People whose breath stinks are likely to get lung cancer. Effect Size 1. - 1990
-People whose salivary pH was lower than average had an increased risk for lung cancer. Effect Size 1.5 - 1992
-People whose breath stinks and cough are likely to get lung cancer. Effect Size 1.8. - 1999
-People whose salivary pH was low, coughs and breath stinks are likely to get lung cancer. Effect Size 2 - 2002
-Hmm, smoker cough, have low pH and have foul breath (sometimes)? 
-People who smoke are likely to get lung cancer. Effect Size 4 - 2002
-People who smoke in Beijing are likely to get lung cancer. Effect Size 5 - 2002
-People who smoke in Johannesburg are likely to get lung cancer. Effect Size 4.5 - 2002
-Hmm, race effect? 
-People who smoke in Shanghai are likely to get lung cancer. Effect Size 4.3 - 2002
-No.
-People who live next to coal plant are likely to get lung cancer. Effect Size 6 - 2004
-Hmm, smoke generally causes cancer?
-People who live next to a plant with high levels of PM2.5 are likely to get lung cancer. Effect Size 12 - 2004
-People who inhale PM2.5 are likely to get lung cancer. Effect Size 12 - 2004
-People who inhale Volatile Organic Compound (VOC) PM2.5 are likely to get lung cancer. Effect Size 15 - 2006
-People who inhale Volatile Organic Compound PM2.5 are likely to get lung cancer. Effect Size 15 - 2006
-People who inhale Formaldehyde Volatile Organic Compound PM2.5 are likely to get lung cancer. Effect Size 20 - 2006
-Hmm, very specific compounds in smoke causes cancer?
-People who inhale Formaldehyde Volatile Organic Compound PM2.5 and don't have the tumour suppressor gene, LIMD1 are likely to get lung cancer. Effect Size 24 - 2008
-Hmm, relational causality at play. 
-```
+
+* People whose breath stinks are likely to get lung cancer. Effect Size 1. - 1990
+* People whose salivary pH was lower than average had an increased risk for lung cancer. Effect Size 1.5 - 1992
+* People whose breath stinks and cough are likely to get lung cancer. Effect Size 1.8. - 1999
+* People whose salivary pH was low, coughs and breath stinks are likely to get lung cancer. Effect Size 2 - 2002
+> Hmm, smoker cough, have low pH and have foul breath (sometimes)? 
+* People who smoke are likely to get lung cancer. Effect Size 4 - 2002
+* People who smoke in Beijing are likely to get lung cancer. Effect Size 5 - 2002
+* People who smoke in Johannesburg are likely to get lung cancer. Effect Size 4.5 - 2002
+> Hmm, race effect? 
+* People who smoke in Shanghai are likely to get lung cancer. Effect Size 4.3 - 2002
+> No.
+* People who live next to coal plant are likely to get lung cancer. Effect Size 6 - 2004
+> Hmm, smoke generally causes cancer?
+* People who live next to a plant with high levels of PM2.5 are likely to get lung cancer. Effect Size 12 - 2004
+* People who inhale PM2.5 are likely to get lung cancer. Effect Size 12 - 2004
+* People who inhale Volatile Organic Compound (VOC) PM2.5 are likely to get lung cancer. Effect Size 15 - 2006
+* People who inhale Volatile Organic Compound PM2.5 are likely to get lung cancer. Effect Size 15 - 2006
+* People who inhale Formaldehyde Volatile Organic Compound PM2.5 are likely to get lung cancer. Effect Size 20 - 2006
+> Hmm, very specific compounds in smoke causes cancer?
+* People who inhale Formaldehyde Volatile Organic Compound PM2.5 and don't have the tumour suppressor gene, LIMD1 are likely to get lung cancer. Effect Size 24 - 2008
+> Hmm, relational causality at play?
+
 
 At each step, a person can infer causation although you can almost always go causally deeper and wider. Yes, smoking cigarettes cause cancer, wow in fact inhaling any smoke causes cancer, wow actually the inhalation of PM2.5 causes cancer, wow a specific type of PM2.5 causes cancer, wow some people seem to have a genetic proclivity in getting lung cancer while inhaling a specific type of PM2.5. Hmm there seems to also be a relational causal relationship. 
 
