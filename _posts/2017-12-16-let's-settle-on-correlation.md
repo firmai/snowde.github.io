@@ -21,17 +21,19 @@ In the comming epoch of AI causation will take a backseat, and a new fluid defin
 
 Researchers are obsessed with causality. Given that causality can be instantly distant both spatially and temporally (butterfly effect), I would argue that to expedite scientific research we should focus on correlation.
 
-The upstream benefits of multiple correlations studies would allow a review study to speculate 'causation' from a correlation mapping. Given that explanatory causation is always abstracted and localised, a new form of 'causation' can be envisaged where the strongest correlation is deemed the causation until proven otherwise.
+The upstream benefits of multiple correlations studies would allow a review study to speculate 'causation' from a correlation mapping. 
+
+Given that explanatory causation is always abstracted and localised, a new form of 'causation' can be envisaged where the **strongest** *correlation* is deemed the causation until proven otherwise.
 
 The stronger the correlation, the more likely we are to hone into the causation.
 
-Imagine this progression to what causes lung cancer following the highest observable association/correlation:  
+Imagine this hypothetical progression to what causes lung cancer following the highest observable association/correlation:  
 
 * People whose breath stinks are likely to get lung cancer. Effect Size 1. - 1990
 * People whose salivary pH was lower than average had an increased risk for lung cancer. Effect Size 1.5 - 1992
 * People whose breath stinks and cough are likely to get lung cancer. Effect Size 1.8. - 1999
 * People whose salivary pH was low, coughs and breath stinks are likely to get lung cancer. Effect Size 2 - 2002
-> Hmm, smoker cough, have low pH and have foul breath (sometimes)? 
+> Hmm, don't smokers cough, have low pH and have foul breath (sometimes)? 
 * People who smoke are likely to get lung cancer. Effect Size 4 - 2002
 * People who smoke in Beijing are likely to get lung cancer. Effect Size 5 - 2002
 * People who smoke in Johannesburg are likely to get lung cancer. Effect Size 4.5 - 2002
@@ -52,7 +54,11 @@ Imagine this progression to what causes lung cancer following the highest observ
 
 At each step, a person can infer causation although you can almost always go causally deeper and wider. Yes, smoking cigarettes cause cancer, wow in fact inhaling any smoke causes cancer, wow actually the inhalation of PM2.5 causes cancer, wow a specific type of PM2.5 causes cancer, wow some people seem to have a genetic proclivity in getting lung cancer while inhaling a specific type of PM2.5. Hmm there seems to also be a relational causal relationship. 
 
-Causation is a threat because it leave us with a feeling of unquestionable satisfaction. Instead of stoping at a whiff of causation we could come to the conclusion that cigarettes can be manufactured without any harmful VOCs or more specifically PM2.5 Formaldehyde particles. In which a potential future study might show that cigarettes sans above ingredients are not statistically likely to lead to lung cancer. Imagine vaping[^2] in the 90s. 
+Causation is a threat because it leave us with a feeling of unquestionable satisfaction. 
+
+Instead of stoping at a whiff of causation we could come to the conclusion that cigarettes can be manufactured without any harmful VOCs or more specifically PM2.5 Formaldehyde particles. 
+
+In which a potential future study might show that cigarettes sans above ingredients are not statistically likely to lead to lung cancer. With all this knowledge vaping[^2] could've kicked off in the 90s. 
 
 Clearly all these things are associated with lung cancer, some more than others. It is up to the reasearcher or scientific consensus to arbitarily clamp causality at some point. For the above example, it is clamped at, "smoking cigarettes causes lung cancer".
 
