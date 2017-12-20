@@ -5,7 +5,7 @@ updated: 2017-12-17 12:37
 
 **Historical Diasporas[^1]:** American Jews: 40%-60% US Wealth/1.5% population = **33**, South African Indians: 15%-20% SA Wealth/3% population = **6**, South African Jews: 25%-30% SA Wealth/0.15% = **180**, Lebanese Brazillians: 10%-15% Brazillian Wealth/2.5% population = **5**.[^2]
 
-The **muliplier** indicates how much more wealth a cummunity has as measured agains the population composition. In a fully egalitarian system you would expect **6** accross all groups. 
+The **muliplier** indicates how much more wealth a cummunity has as measured agains the population composition. In a fully egalitarian system you would expect **1** accross all groups. 
 
 ## Diaspora Success   
 
