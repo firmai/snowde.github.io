@@ -10,15 +10,15 @@ google_analytics:   UA-XXXXXXX-X # Your Google Analytics code - set to 'false' t
 author_name:        "DS" # Your name here
 author_email:       10st@live.com # Your email here
 author_gravatar:    2b38b1b0e7e08b69379bd61582adf0c8 # Gravatar md5 hash (of email) here for logo - set to 'false' to disable
-twitter_username:   HeiswayiNrird # set to 'false' to disable
-github_username:    heiswayi # set to 'false' to disable
+
 
 # Site Settings
 url:                http://tensecondthought.com # main url
 baseurl:            / # for gh-pages
 permalink:          /notes/:title # Post permalink
-timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-mathjax:            true  # enables support for mathjax - set to 'false' to disable
+timezone:           Pacific/Auckland # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+mathjax:            true  # enables support for mathjax - set to false to disable
+
 
 # Site Build
 highlighter:        rouge
