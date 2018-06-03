@@ -4,6 +4,11 @@ description:        "Tinking..."
 google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
 google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: heiswayi/the-plain
+
 # Author Info
 author_name:        "DS" # Your name here
 author_email:       10st@live.com # Your email here
