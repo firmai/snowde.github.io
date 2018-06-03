@@ -14,7 +14,7 @@ twitter_username:   HeiswayiNrird # set to 'false' to disable
 github_username:    heiswayi # set to 'false' to disable
 
 # Site Settings
-url:                https://http://tensecondthought.com # main url
+url:                http://tensecondthought.com # main url
 baseurl:            / # for gh-pages
 permalink:          /notes/:title # Post permalink
 timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
